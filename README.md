@@ -11,7 +11,8 @@ The code in this project is based on the [The Web Developer Bootcamp](https://ww
 ## Features
 
 - Authentication system: register, login, logout.
-- Create, edit or remove your campgrounds. Review other's campgrounds, edit or remove your reviews.
+- Create, edit or remove your campgrounds.
+- Review campgrounds, edit or remove your reviews.
 
 ## Features Yet To Be Implemented
 
