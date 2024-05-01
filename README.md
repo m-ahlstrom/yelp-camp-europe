@@ -4,7 +4,7 @@
 
 ## THIS README IS A DRAFT
 
-Yelp Camp Europe is a web application built with Node.js, Express.js and MongoDB. This project is currently in development. Everything is functional: the basics of the authentication system, campground creation, reviews. What it needs is a little polishing, adding extra features. And deploying to Vercel. It was previously deployed to Render.
+Yelp Camp Europe is a web application built with Node.js, Express.js and MongoDB. This project is currently in development. Everything is functional: the basics of the authentication system, campground creation, reviews. What it needs is a little polishing, adding extra features. Deployed to Vercel, [check it out in action](https://yelp-camp-europe.vercel.app)
 
 The code in this project is based on the [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) course by Colt Steele from Udemy.
 
