@@ -16,6 +16,7 @@ The code in this project is based on the [The Web Developer Bootcamp](https://ww
 
 ## Features Yet To Be Implemented
 
+- Before moving any further: writing tests.
 - Authentication. Use a valid e-mail address or a Google-account.
 - Cannot create a campground without an image. A campground cannot have more than 5 images.
 - User roles: hosts can create campgrounds, guests can book and review them.
